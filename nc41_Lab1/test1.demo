@@ -1,0 +1,16 @@
+procedure main {
+	int a, b[20:50,10:30];
+	char c;
+
+	a = 1;
+
+	for b = 1 to 10 by 1 {
+		a = 1 ;
+	}
+	write b;
+	while(a != 0)
+	{
+		a = b[25,20];
+	}
+}
+
