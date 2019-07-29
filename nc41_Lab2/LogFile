@@ -1,0 +1,16 @@
+LogFile is unbuffered.
+
+COMP 506 DEMO Compiler
+Run on 'cobalt.clear.rice.edu' at Thu Feb 14 23:37:32 2019
+Using code base R02.02
+
+File disposition:
+	opening file './tests/errors/error2.demo'
+	stdout is unbuffered.
+
+Parser, line 7: Unexpected semicolon; indicates an empty statement
+	lexeme is ';'.
+
+Parser fails with 1 error messages.
+Execution halts.
+Due to errors, deleting files (null) and (null)
